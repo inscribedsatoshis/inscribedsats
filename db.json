@@ -2,24 +2,27 @@
     "tokens": [
         {
             "id": 0,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 0"
+            "description": "Unlocked all traits to be used by your fancy
+",
+            "external_url": "https://opensea.io/assets/matic/0x30f126ff5ea8905d0fc4894c97f3bfe2f6c86f4d/0",
+            "image": "https://cdn.discordapp.com/attachments/1057760786845548595/1094404746426724453/01f0794dee824ae750f131a339f75c38.webp",
+            "name": "Unreveal"
         },
         {
             "id": 1,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 1"
+            "description": "Unlocked all traits to be used by your fancy
+",
+            "external_url": "https://opensea.io/assets/matic/0x30f126ff5ea8905d0fc4894c97f3bfe2f6c86f4d/1",
+            "image": "https://cdn.discordapp.com/attachments/1057760786845548595/1094404746426724453/01f0794dee824ae750f131a339f75c38.webp",
+            "name": "Unreveal"
         },
         {
             "id": 2,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 2"
+            "description": "Unlocked all traits to be used by your fancy
+",
+            "external_url": "https://opensea.io/assets/matic/0x30f126ff5ea8905d0fc4894c97f3bfe2f6c86f4d/2",
+            "image": "https://cdn.discordapp.com/attachments/1057760786845548595/1094404746426724453/01f0794dee824ae750f131a339f75c38.webp",
+            "name": "Unreveal"
         }
     ]
 }
