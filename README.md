@@ -1,2 +1,2 @@
-# samplenft
-Sample NFT
+# Inscribed Satoshis
+
