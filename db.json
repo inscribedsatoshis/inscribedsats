@@ -1,18 +1,15 @@
 {
-    "Inscriptions": [
+    "meta": [
         {
-    "id": "6c5baf71167da6d20058c03312de4c8ea85849586ea6ebe3f80bfcbf15971408i0",
-    "meta": {
-      "name": "Inscribed Satoshis #1",
-      "attributes": [
-        { "trait_type": "Artist", "value": "Jamex" },
-        { "trait_type": "Subs", "value": "500k>" },
-        { "trait_type": "Inscription", "value": "#175354" },
-        { "trait_type": "Background", "value": "Green" },
-        { "trait_type": "Rareness", "value": "Rare Sats 1" },
-        { "trait_type": "Hair", "value": "Purple Mawhawk" },
-        { "trait_type": "Nakamoto_Sats", "value": "Rare_Nakamoto" },
-        { "trait_type": "Clothes", "value": "Formal Brown" }
+  "description": "333 Inscribed Satoshis living forever on the #Bitcoin blockchain as digital artifacts.",
+  "discord_link": "https://discord.gg/xWxUMFNvAR",
+  "icon": "https://turbo.ordinalswallet.com/inscription/preview/91747ff7246fcd379e864d837002fc754dee9fdb172fd25933fd127ef2941955i0",
+  "inscription_icon": "91747ff7246fcd379e864d837002fc754dee9fdb172fd25933fd127ef2941955i0",
+  "name": "Inscribed Satoshis",
+  "slug": "inscribed-satoshis",
+  "twitter_link": "https://twitter.com/InscribedSats",
+  "website_link": "https://bento.me/inscribedsats"
+}
       ]
     }
   }
